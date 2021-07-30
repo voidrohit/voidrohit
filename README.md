@@ -24,6 +24,7 @@
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/48/000000/github.png"/>
 <img align="left" alt="linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
