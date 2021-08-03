@@ -21,17 +21,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />
-<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/48/000000/github.png"/>
-<img align="left" alt="linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
+[<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />][react]
+[<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][nodejs]
+[<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>][mongodb]
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>][python]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />][vscode]
+[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/48/000000/github.png"/>][github]
+[<img align="left" alt="linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />][linux]
 <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />]
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+
 
 
 [website]: https://voidrohit.herokuapp.com/
@@ -39,3 +39,10 @@
 [twitter]: https://twitter.com/void_rohit/
 [instagram]: https://www.instagram.com/blankelement/
 [eesa]: https://eesanitp.herokuapp.com/
+[react]: https://github.com/facebook/react
+[nodejs]: https://nodejs.org/en/
+[mongodb]: https://www.mongodb.com/
+[vscode]: https://code.visualstudio.com/
+[python]: https://www.python.org/
+[github]: https://github.com/
+[linux]: https://garudalinux.org/
