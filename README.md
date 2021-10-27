@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creative people
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love clicking pictures
+- ⚡ Fun fact: create-react-app in linux is much faster than windows
 
 ### Connect with me:
 
