@@ -2,12 +2,12 @@
 
 [![Website](https://img.shields.io/badge/voidrohit.com-NITP-lightgrey)](https://voidrohit.herokuapp.com/)
 
-## I'm a Student and Pro'grammer!
+## I'm a Noobie Pro'grammer!
 
-- 🔭 I just created a website: [EESA][eesa]!
+- 🔭 Exploring new tech stack!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creative people
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: throw windows out of window to save time
 
 ### Connect with me:
